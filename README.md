@@ -1,7 +1,7 @@
 # 🎪 Happy Hoopla – The Ultimate Circus Website
 
 ## 🌟 Project Overview
-Welcome to **Happy Hoopla**, A single-page static website designed to bring the **magic of the circus** to life! This project was built using **HTML, CSS, and Bootstrap**, providing an eye-catching, engaging, and fully responsive experience for visitors. 🎉
+Welcome to **Happy Hoopla**, A single-page static and responsive website designed to bring the **magic of the circus** to life! This project was built using **HTML, CSS, and Bootstrap**, providing an eye-catching, engaging, and fully responsive experience for visitors. 🎉
 
 ## ✨ Features & Highlights
 - 🎨 **Breathtaking UI & Vibrant Colors** – A visually stunning, circus-themed design.
