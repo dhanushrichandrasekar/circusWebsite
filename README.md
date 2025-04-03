@@ -3,6 +3,32 @@
 ## 🌟 Project Overview
 Welcome to **Happy Hoopla**, A single-page static website designed to bring the **magic of the circus** to life! This project was built using **HTML, CSS, and Bootstrap**, providing an eye-catching, engaging, and fully responsive experience for visitors. 🎉
 
+## 📸 Screenshots  
+Here are some previews of **Happy Hoopla**:  
+
+### 🎭 Home Section  
+![Home Section](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/screenshots/carousel1.png)  
+![Home Section](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/screenshots/carousel2.png)  
+![Home Section](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/screenshots/carousel3.png)  
+
+### 🎪 About  
+![About Section](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/screenshots/about.png)  
+
+### 🎩 Services
+![Service Section](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/screenshots/services1.png)
+![Service Section](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/screenshots/services2.png)
+
+### 🎩 Crew
+![Crew Section](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/screenshots/crew.png)
+
+### 🔗 Get Connected 
+![getConnected Section](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/screenshots/connect.png)
+
+## 🎥 Demo Video  
+For a quick tour of **Happy Hoopla**, watch the demo video below:  
+
+[![Watch Demo](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/circusWebsiteDemo.mp4)  
+
 ## ✨ Features & Highlights
 - 🎨 **Breathtaking UI & Vibrant Colors** – A visually stunning, circus-themed design.
 - 🏠 **Image Carousel** – Showcasing circus.
