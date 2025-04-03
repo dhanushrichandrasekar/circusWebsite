@@ -12,6 +12,60 @@ Welcome to **Happy Hoopla**, A single-page static website designed to bring the 
 - 📞 **Contact Form** – Visitors can easily get in touch.
 - 🔽 **Accordion FAQ Section** – Answers common user questions effortlessly.
 
+## 📂 Project Structure
+circusWebsite/  
+│── assets/  
+│   ├── images/  
+│   │   ├── animalcrew.jpg  
+│   │   ├── c11.jpg  
+│   │   ├── c12.jpg  
+│   │   ├── c13.jpg  
+│   │   ├── carni.jpg  
+│   │   ├── cc.webp  
+│   │   ├── circ1.avif  
+│   │   ├── circ2.avif  
+│   │   ├── circ6.jpg  
+│   │   ├── circus1.jpg  
+│   │   ├── circuss.jpg  
+│   │   ├── clown.jpg  
+│   │   ├── clowncrew.jpg  
+│   │   ├── clownface.png  
+│   │   ├── cloww.jpg  
+│   │   ├── dancecrew.webp  
+│   │   ├── elephant.jpg  
+│   │   ├── i1.jpg  
+│   │   ├── i2.jpg  
+│   │   ├── i3.jpg  
+│   │   ├── i4 (1) (1).jpg  
+│   │   ├── i5.jpg  
+│   │   ├── i6.jpg  
+│   │   ├── i7.jpg  
+│   │   ├── jok.webp  
+│   │   ├── lo.jpg  
+│   │   ├── log.avif  
+│   │   ├── logo.jpg  
+│   │   ├── ti.jpg  
+│   │   └── tiger (1).jpg   
+│   │   └── icon.webp  
+│  
+│── designFiles/  
+│   ├── index.html        # Main HTML file  
+│   ├── style.css         # Main CSS file  
+│   ├── script.js         # JavaScript file (if applicable)  
+│  
+│── screenshots/  
+│   ├── about.png  
+│   ├── carousel1.png  
+│   ├── carousel2.png  
+│   ├── carousel3.png  
+│   ├── connect.png  
+│   ├── crew.png  
+│   ├── services1.png  
+│   ├── services2.png  
+│  
+│── circusWebsiteDemo.mp4 #Video demo of circus website
+│── README.md             # Main project description for GitHub  
+
 ## 📸 Screenshots  
 Here are some previews of **Happy Hoopla**:  
 
