@@ -1,0 +1,120 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+}
+.dancing-script-h1 {
+font-family: "Dancing Script", cursive;
+font-optical-sizing: auto;
+font-weight: 400;
+font-style: normal;
+}
+.carousel-item img{
+  width: 100%;
+  height: 80vh;
+}
+#logo{
+width: 80px;
+height: 70px;
+border-radius: 80px;
+}
+nav{
+background-color: rgb(255, 0, 0);
+}
+.services{
+background-color: rgb(255, 84, 21);
+}
+.contact{
+background-color: rgb(167, 16, 16);
+}
+footer{
+background-color:green;
+}
+.accordion-button {
+background-color: transparent;
+color: #000;
+border: none;
+}
+.accordion-button:focus {
+box-shadow: none;
+outline: none;
+}
+.accordion-button:not(.collapsed) {
+background-color: #054e16;
+color: #fff;
+}
+.accordion-button:hover {
+background-color: #2857a7;
+color: #fff;
+}
+.accordion-button:active, 
+.accordion-button:focus-visible,
+.accordion-button:focus {
+background-color: transparent;
+color: #000;
+box-shadow: none;
+outline: none;
+}
+.servcard{
+background-color: rgb(255, 234, 47);
+}
+footer{
+font-size: 18px;
+font-family: "Dancing Script", cursive;
+}
+.btnfoot{
+background-color: #ff0084 !important;
+}
+h1 {
+font-family: "Dancing Script", cursive;
+font-optical-sizing: auto;
+font-style: normal;
+}
+@media (max-width: 768px) {
+  .navbar-collapse {
+      background-color: white;
+      padding: 15px;
+      margin-top: 10px;
+      border-radius: 5px;
+      box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  }
+  
+  .carousel-item img {
+      height: 50vh;
+      min-height: 300px;
+  }
+  .carousel-caption {
+      bottom: 15%;
+      padding: 10px;
+  }
+  .carousel-caption h5 {
+      font-size: 1.2rem;
+  }
+  .carousel-caption p {
+      font-size: 0.9rem;
+  }
+  
+
+  section {
+      padding: 2rem 0;
+  }
+  
+  .servcard {
+      min-height: auto;
+      margin-bottom: 1.5rem;
+  }
+  
+  .contact .row {
+      flex-direction: column-reverse;
+  }
+  .contact img {
+      margin-bottom: 2rem;
+  }
+}
+
+body {
+  overflow-x: hidden;
+}
