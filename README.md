@@ -11,7 +11,7 @@ Welcome to **Happy Hoopla**, A single-page static website designed to bring the 
 - 📢 **Services Section** – Displays available circus acts and attractions.
 - 📞 **Contact Form** – Visitors can easily get in touch.
 - 🔽 **Accordion FAQ Section** – Answers common user questions effortlessly.
-- 
+
 ## 📸 Screenshots  
 Here are some previews of **Happy Hoopla**:  
 
