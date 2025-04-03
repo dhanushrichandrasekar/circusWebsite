@@ -3,6 +3,15 @@
 ## 🌟 Project Overview
 Welcome to **Happy Hoopla**, A single-page static website designed to bring the **magic of the circus** to life! This project was built using **HTML, CSS, and Bootstrap**, providing an eye-catching, engaging, and fully responsive experience for visitors. 🎉
 
+## ✨ Features & Highlights
+- 🎨 **Breathtaking UI & Vibrant Colors** – A visually stunning, circus-themed design.
+- 🏠 **Image Carousel** – Showcasing circus.
+- 📱 **Mobile-Responsive** – Perfectly adapts to all screen sizes.
+- 🔥 **Interactive Animations** – Smooth transitions for an engaging user experience.
+- 📢 **Services Section** – Displays available circus acts and attractions.
+- 📞 **Contact Form** – Visitors can easily get in touch.
+- 🔽 **Accordion FAQ Section** – Answers common user questions effortlessly.
+- 
 ## 📸 Screenshots  
 Here are some previews of **Happy Hoopla**:  
 
@@ -29,15 +38,6 @@ For a quick tour of **Happy Hoopla**, watch the demo video below:
 
 ![Watch Demo](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/circusWebsiteDemo.mp4)  
 
-## ✨ Features & Highlights
-- 🎨 **Breathtaking UI & Vibrant Colors** – A visually stunning, circus-themed design.
-- 🏠 **Image Carousel** – Showcasing circus.
-- 📱 **Mobile-Responsive** – Perfectly adapts to all screen sizes.
-- 🔥 **Interactive Animations** – Smooth transitions for an engaging user experience.
-- 📢 **Services Section** – Displays available circus acts and attractions.
-- 📞 **Contact Form** – Visitors can easily get in touch.
-- 🔽 **Accordion FAQ Section** – Answers common user questions effortlessly.
-
 ## 🛠 Technologies Used
 - **HTML5** – Structuring the webpage.
 - **CSS3** – Beautiful styling and layouts.
@@ -63,14 +63,17 @@ For a quick tour of **Happy Hoopla**, watch the demo video below:
 - 🎭 **Live Chat for Event Inquiries**
 - 🚀 **Integration with Social Media for Sharing**
 
-## 💖 Credits & Acknowledgments
-Developed with passion by **Dhanushri C** ✨🚀
-
 ## ⚠️ Note
 This project was created to practice **Bootstrap**, and therefore, **form validations have not been implemented**.
 
 ## 🐟 License
-This project is open-source. Feel free to use, modify, and share it!
+This project is **open-source** and free to use for learning and development. 🚀  
+Feel free to fork, modify, and contribute!  
+
+## 👨‍💻 Author  
+Developed by **Dhanushri C**  
+📧 Email: dhanushri1702@gmail.com  
+📌 GitHub: [Dhanushri Chandrasekar](https://github.com/dhanushrichandrasekar)  
 
 🎪✨ *Step into the world of Happy Hoopla and let the fun begin!* 🎠🎭🎉 static 
 
