@@ -27,7 +27,7 @@ Here are some previews of **Happy Hoopla**:
 ## 🎥 Demo Video  
 For a quick tour of **Happy Hoopla**, watch the demo video below:  
 
-[![Watch Demo](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/circusWebsiteDemo.mp4)  
+![Watch Demo](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/circusWebsiteDemo.mp4)  
 
 ## ✨ Features & Highlights
 - 🎨 **Breathtaking UI & Vibrant Colors** – A visually stunning, circus-themed design.
