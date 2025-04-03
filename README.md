@@ -11,7 +11,6 @@ Welcome to **Happy Hoopla**, A single-page static website designed to bring the 
 - 📢 **Services Section** – Displays available circus acts and attractions.
 - 📞 **Contact Form** – Visitors can easily get in touch.
 - 🔽 **Accordion FAQ Section** – Answers common user questions effortlessly.
-- 🎶 **Optional Background Music** – Enhancing the festive mood.
 
 ## 🛠 Technologies Used
 - **HTML5** – Structuring the webpage.
