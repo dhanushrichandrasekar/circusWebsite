@@ -66,6 +66,10 @@ circusWebsite/
 │── circusWebsiteDemo.mp4 #Video demo of circus website
 │── README.md             # Main project description for GitHub  
 
+## 🎥 Demo Video  
+For a quick tour of **Happy Hoopla**, watch the demo video below:  
+🎬 **[Watch the Website Demo](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/circusWebsiteDemo.mp4)**
+
 ## 📸 Screenshots  
 Here are some previews of **Happy Hoopla**:  
 
@@ -86,11 +90,6 @@ Here are some previews of **Happy Hoopla**:
 
 ### 🔗 Get Connected 
 ![getConnected Section](https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/screenshots/connect.png)
-
-## 🎥 Demo Video  
-For a quick tour of **Happy Hoopla**, watch the demo video below:  
-
-📽️ https://github.com/dhanushrichandrasekar/circusWebsite/blob/155965e49a7775e049b126cb22bc8c5ae6eb2518/circusWebsiteDemo.mp4
 
 ## 🛠 Technologies Used
 - **HTML5** – Structuring the webpage.
